@@ -55,10 +55,8 @@ const GALLERY_PHOTOS = [
    Setiap string adalah satu paragraf.
    Bisa ditambah atau dikurangi paragrafnya.                       */
 const LETTER_PARAGRAPHS = [
-  "She says she can't feel her face, yeah, right now I can't feel my heart.",
-  "For your feelings there's no place, yeah, but you knew that from the start.",
-  "You and I, we're made of glass, we'd never last.",
-  "Quick to die, we moved fast and then we crashed."
+  "Dear you,",
+  "Dear Alva, wishing you the happiest of birthdays. I really admire who you are and always look forward to talking to you. I hope this new chapter brings you nothing but joy, success, and happiness."
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -72,26 +70,26 @@ const MEMORIES = [
   {
     depth: "2m",
     year:  "Chapter One",
-    title: "Where It All Started",
-    text:  "That moment when everything just clicked and suddenly made sense.",
+    title: "Where It Began",
+    text:  "The day we first crossed paths.",
   },
   {
     depth: "8m",
     year:  "Chapter Two",
-    title: "The Quiet Days",
-    text:  "Just you, me, and those simple moments that ended up meaning everything.",
+    title: "Little Moments",
+    text:  "Simple moments, quietly memorable.",
   },
   {
     depth: "16m",
     year:  "Chapter Three",
-    title: "Through the Storms",
-    text:  "We've had our rough days, but honestly, we always found our way back.",
+    title: "Growing Forward",
+    text:  "Life has its ups and downs and that’s part of the journey",
   },
   {
     depth: "24m",
     year:  "Chapter Four",
-    title: "Finding the Light",
-    text:  "You're literally the brightest part of my journey, even in the deepest waters.",
+    title: "Keep Shining",
+    text:  "Keep shining and being yourself.",
   },
 ];
 
